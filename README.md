@@ -6,11 +6,11 @@
 [archive]: https://www.try.gov.hk/internet/eharch_acco_monfinancial.html
 
 # Scraping Hong Kong's Monthly Financial Results
-Amid Hong Kong's slower-than-expected post-pandemic economic recovery, its deficit has become a major concern for society. Its fiscal reserves peaked at HK$1,211.0 billion in [January 2019]. However, due to consistent deficits every financial year since 2019 (except in 2021-22), its fiscal reserves have declined to HK$670.7 billion as of [November 2023].
+In the wake of Hong Kong's slower-than-expected post-pandemic economic recovery, its deficit has become a major concern for society. Notably, fiscal reserves have plummeted from their peak of HK$1,211.0 billion in [January 2019] to a mere HK$670.7 billion by [November 2023]. This stark decline raises critical questions: How severe is this financial downturn, and what steps can be taken to mitigate it? Addressing these inquiries requires a comprehensive analysis of Hong Kong's fiscal performance over the long term.
 
-How bad is this decline? How should the deficit be addressed? Answering these questions would require us to put recent five years' deficit into perspective. Unfortunately, it seems that there is now no public and easy-to-access datasets or visualisations about Hong Kong's financial results in the long term.
+Unfortunately, there seems to be a lack of publicly accessible datasets or visualisations that provide a long-term perspective on Hong Kong's financial health.
 
-To inform the public debate on Hong Kong's fiscal policy, this project creates and visualises a dataset including Hong Kong's fiscal reserves, revenue, and expenditure each month since [September 1998], when the government started to release monthly summaries of its financial results to meet IMF standards. The dataset, spanning from 1998 to the present, can be found in the file "Monthly Financial Results 1998-present.xlsx". All numbers are in HK$ million.
+To facilitate informed discussions on Hong Kong's fiscal policy, this project aimed at creating and visualising a dataset which contains Hong Kong's fiscal reserves, revenue, and expenditure on a monthly basis starting from [September 1998], when the government started to release monthly financial summaries in compliance with IMF standards. The resulting dataset can be found in the file "Monthly Financial Results 1998-present.xlsx". All numbers are in HK$ million.
 
 ## Sources
 The Hong Kong government regularly publishes the previous month's financial results at the end of each month. The latest two financial years' press releases can be found [here](https://www.try.gov.hk/internet/ehpubl_acco_monfinancial.html), and the rest can be found [here](https://www.try.gov.hk/internet/eharch_acco_monfinancial.html).
