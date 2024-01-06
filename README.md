@@ -6,7 +6,6 @@
 [archive]: https://www.try.gov.hk/internet/eharch_acco_monfinancial.html
 
 # Scraping Hong Kong's Monthly Financial Results
-## Overview
 Amid Hong Kong's slower-than-expected post-pandemic economic recovery, its deficit has become a major concern for society. Its fiscal reserves peaked at HK$1,211.0 billion in [January 2019]. However, due to consistent deficits every financial year since 2019 (except in 2021-22), its fiscal reserves have declined to HK$670.7 billion as of [November 2023].
 
 How bad is this decline? How should the deficit be addressed? Answering these questions would require us to put recent five years' deficit into perspective. Unfortunately, it seems that there is now no public and easy-to-access datasets or visualisations about Hong Kong's financial results in the long term.
